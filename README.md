@@ -1,14 +1,14 @@
 ## Hi there, I am Sidhant! 👋
 
-🔭 I am currently doing my PhD in Plant Biology in Uppsala, Sweden.
+🔭 I am currently doing my PhD in Plant Biology at [Swedish University of Agricultural Sciences](https://www.slu.se/en/) in Uppsala, Sweden.
 
 🌱 I am currently working on transcriptomics analysis in interactions among plant genotypes, a pathogen, and a biocontrol agent.
 
 🔍 I am currently learning about the command line interface for more streamlined and reproducible research.
 
 💡 **I am interested in**
-  1. Data-driven research in agriculture 📈
-  2. Learning about various data analysis techniques telling a story with data 📊
+  1. Data-driven research in agriculture 👨🏽‍🌾
+  2. Learning about data analysis techniques and telling a story with data 📊
   3. Genetics 🧬
   4. Coding 💻
   5. Teaching 🧑‍🏫
