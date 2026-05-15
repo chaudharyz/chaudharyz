@@ -1,33 +1,24 @@
-## Hi there, I am Sidhant! 👋
+# Hi there, I am Sidhant! 👋
+*I think I am... Moderately Informed, Deeply Interested & Mostly Fascinated by Sciences, the beauty of it all.*
 
-🔭 I have a PhD in Plant Biology from [Swedish University of Agricultural Sciences](https://www.slu.se/en/) in Uppsala, Sweden.
+- I have a PhD in Biology from [Swedish University of Agricultural Sciences](https://www.slu.se/en/) in Uppsala, Sweden.
 
-🌱 I am currently working at [Umeå Plant Science Centre Bioinformatics facility](https://github.com/UPSCb?view_as=public) 
+- I am currently working at [Uppsala University](https://www.uu.se/en/department/immunology-genetics-and-pathology), working with human long-read sequencing data to identify rare genetic disorders.
 
-🔍 I am currently learning and strengthening my skills in Bioinformatics research, reproducible data analysis across various biological datasets.
+- **My background** is broad and cross-disciplinary, but I have been driven by an interest for converting data into information & knowledge; utilising statistical and bioinformatic inference, in an attempt to make sense of biological complexity.
 
-💡 **I am interested in**
-  1. Data-driven research in biology 👨🏽‍🌾
-  2. Story with data 📊
-  3. Genetics 🧬
-  4. Coding 💻
-  5. Teaching 🧑‍🏫
+## Among various themes, specifically relevant for Github profile, I am interested in
+  1. **Statistics**, *(it is a love-hate relationship), so much more to learn*
+  2. **Bioinformatics**, *Trying my best to keep up with things*
+  3. **Computers**, *wish I was born into 80s to learn first hand*
+  4. **Genetics**, *just sublime*
+  5. **Ecology**, *very fascinated, very short on confidence*
+  6. **Teaching**, *keeping up with the memes to keep students engaged is the best exercise*
      
 
 
 📫 Reach out to me on [X (Twitter)](https://twitter.com/sid_chaudhary_), [LinkedIn](https://linkedin.com/in/sidhant-chaudhary) or by [email](sidhant.chaudhary@slu.se).
 
 <!--
-**chaudharyz/chaudharyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**chaudharyz/chaudharyz** is a _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 -->
