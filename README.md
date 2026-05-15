@@ -14,7 +14,7 @@
   4. **Genetics**, *just sublime*
   5. **Ecology**, *very fascinated, very short on confidence*
   6. **Teaching**, *keeping up with the memes to keep students engaged is the best exercise*
-  7. **Data Vizualisation**, *I wonder about the contribution of ggplot on global research delays*
+  7. **Data Visualisation**, *I wonder about the contribution of ggplot on global research delays*
      
 
 
